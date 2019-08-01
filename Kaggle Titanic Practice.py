@@ -1,3 +1,6 @@
+#Practising my ML skills on the Titanic Survival data set.
+#I am using multiple classifiers and then picking the best performing classifier for the final prediction
+
 #!/usr/bin/env python
 # coding: utf-8
 
